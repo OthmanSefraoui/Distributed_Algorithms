@@ -7,12 +7,12 @@ This is the mandatory project in the Distributed Algorithms course at Swiss Fede
 ### Authors
 
 * Henrik Milan: <henrik.milan@epfl.ch>
-* Othman Sefraoui: <othman.sefraoui@epfl.ch>
+* Othman Sefraoui: <othman.sefraoui@grenoble-inp.org>/<othman.sefraoui@epfl.ch>
 * Furkan Karakas: <furkan.karakas@epfl.ch>
 
 ### Content of the Project
 
-The goal of this practical project is to implement certain building blocks necessary for a decentralized system. To this end, some underlying abstractions will be used:
+The goal of this practical project is to implement certain building blocks necessary for a decentralized system using UDP sockets in JAVA. To this end, some underlying abstractions will be used:
 
 1. Perfect Links,
 2. Uniform Reliable Broadcast,
